@@ -1,0 +1,5 @@
+DEFAULT_FILE = 'access.log'
+TOPN_SECTIONS = 5
+INTERVAL = 10 # In seconds
+HIGH_TRAFFIC_PERIOD = 120 # In seconds
+HIGH_TRAFFIC_THRESHOLD = 10 # In req/sec
